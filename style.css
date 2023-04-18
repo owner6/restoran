@@ -1,7 +1,12 @@
+body {
+  margin: 0;
+}
 .header-logo {
   margin: 0 166px;
 }
-
 .header {
   background-image: url(hero\ image.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
