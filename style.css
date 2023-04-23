@@ -129,6 +129,7 @@ body {
   margin-right: 31px;
   background-color: #fff;
   margin-top: -80px;
+  padding: 0 10px;
 }
 .card-image {
   display: flex;
@@ -143,9 +144,13 @@ body {
   font-weight: 400;
   font-size: 26px;
 }
+.card-title span {
+  color: #BC9060;
+}
 .card-desk {
   text-align: center;
   font-family: 'Tinos', serif;
   font-weight: 400;
   font-size: 26px;
+  color: #656363;
 }
