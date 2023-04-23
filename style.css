@@ -129,7 +129,7 @@ body {
   margin-right: 31px;
   background-color: #fff;
   margin-top: -80px;
-  padding: 0 10px;
+  padding: 10px 10px;
 }
 .card-image {
   display: flex;
@@ -147,10 +147,55 @@ body {
 .card-title span {
   color: #BC9060;
 }
-.card-desk {
+
+.card-desc {
   text-align: center;
   font-family: 'Tinos', serif;
   font-weight: 400;
-  font-size: 26px;
+  font-size: 16px;
   color: #656363;
 }
+.history {
+  margin-top: 166px;
+}
+.history-title {
+  font-weight: 400;
+  font-size: 54px;
+  font-family: 'Open Sans', sans-serif;
+  width: 444px;
+  text-align: center;
+  margin-top: 21px;
+}
+.history-title span {
+  color: #BC9060;
+}
+.history-desc {
+  color: #656363;
+  font-size: 16px;
+  width: 444px;
+  text-align: center;
+}
+.history-number {
+  display: flex;
+  width: 444px;
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: 30px;
+}
+.number-item {
+  margin-right: 60px;
+  text-align: center;
+  font-size: 40px;
+  color: #BC9060;
+}
+.number-item span {
+  display: block;
+  color: #000;
+}
+.history-images {
+  position: relative;
+}
+.history-holder {
+  display: flex;
+}
+
