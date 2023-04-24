@@ -157,11 +157,15 @@ body {
 }
 .history {
   margin-top: 166px;
+
+}
+.history-holder {
+  display: flex;
 }
 .history-title {
   font-weight: 400;
   font-size: 54px;
-  font-family: 'Open Sans', sans-serif;
+  font-family: 'Tinos', serif;
   width: 444px;
   text-align: center;
   margin-top: 21px;
@@ -177,10 +181,11 @@ body {
 }
 .history-number {
   display: flex;
-  width: 444px;
-  justify-content: center;
-  margin-top: 40px;
-  margin-left: 30px;
+	width: 444px;
+	justify-content: center;
+	margin-top: 40px;
+	margin-left: 30px;
+  
 }
 .number-item {
   margin-right: 60px;
@@ -195,7 +200,22 @@ body {
 .history-images {
   position: relative;
 }
-.history-holder {
-  display: flex;
+.images2331 {
+  position: absolute;
+  z-index: 0;
+  top: 54px;
+  left: 211px; 
+}
+.images2551 {
+  position: absolute;
+  z-index: 999;
+  top: -92px;
+  left: 383px;
+}
+.images4301 {
+  position: absolute;
+  z-index: 999;
+  top: 241px;
+  left: 486px;
 }
 
