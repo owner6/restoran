@@ -181,10 +181,10 @@ body {
 }
 .history-number {
   display: flex;
-	width: 444px;
-	justify-content: center;
-	margin-top: 40px;
-	margin-left: 30px;
+  width: 444px;
+  justify-content: center;
+  margin-top: 40px;
+  margin-left: 30px;
   
 }
 .number-item {
@@ -218,4 +218,3 @@ body {
   top: 241px;
   left: 486px;
 }
-
