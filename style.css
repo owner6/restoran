@@ -365,3 +365,49 @@ body {
   font-weight: 400;
   text-align: center;
 }
+.gallery-title {
+  font-family: 'Tinos' serif;
+  font-size: 54px;
+  text-align: center;
+  padding-top: 100px;
+  margin-bottom: 65px;
+}
+.gallery-title span {
+  color: #D67E34;
+}
+.gallery-content {
+  display: flex;
+  justify-content: center;
+}
+.gallery-left {
+  margin-right: 20px;
+}
+.gallery-down, 
+.gallery-up {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 20px;
+}
+.cook {
+  padding-bottom: 100px;
+}
+.cook-title {
+  font-family: 'Tinos' serif;
+  font-size: 54px;
+  text-align: center;
+  margin-bottom: 100px;
+  margin-top: 100px;
+}
+.cook-title span {
+  color: #D67E34;
+}
+.cook-content {
+  display: flex;
+  justify-content: space-around;
+}
+.footer {
+  background-color: #000;
+  padding: 50px;
+  color: #fff;
+  text-align: center;
+}
