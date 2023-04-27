@@ -5,7 +5,7 @@ body {
   margin: 0 166px;
 }
 .header {
-  background-image: url(hero\ image.jpg);
+  background-image: url(media/fon-site.jpg);
   height: 100vh;
   background-repeat: no-repeat;
   background-size: cover;
@@ -218,7 +218,7 @@ body {
   left: 486px;
 }
 .black-block {
-  background-image: url(bg.jpg);
+  background-image: url(media/bh.jpg);
   padding: 80px 0;
 }
 
@@ -275,7 +275,7 @@ body {
   margin-left: 20px;
 }
 .menu {
-  background-image: url(menu-bg.jpg);
+  background-image: url(media/menu-fon.jpg);
   background-repeat: no-repeat;
   background-size: cover;
   padding-bottom: 100px;
