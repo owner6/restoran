@@ -328,6 +328,9 @@ body {
 .menu-image {
   position: relative;
 }
+.menu-img {
+	width: 90%;
+}
 .price-210 {
   position: absolute;
   bottom: 32px;
