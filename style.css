@@ -214,6 +214,7 @@ body {
 .black-block {
   background-image: url(media/bh.jpg);
   padding: 80px 0;
+  margin-top: 80px;
 }
 
 .left-title {
@@ -520,7 +521,7 @@ body {
     margin: 5px;
   }
   .number-item {
-    font-size: 20px;
+    font-size: 23px;
     margin-right: auto;
   }
   .card {
